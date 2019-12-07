@@ -1,0 +1,2 @@
+# tsscoin
+git for tsscoin
